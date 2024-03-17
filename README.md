@@ -3,6 +3,13 @@
 1. Create core glue features from scratch by adding AWS users, roles ,policies and creating S3 buckets, KMS keys, SNS notification etc
 2. Use codeformation templates to advance further
 
+## 1. Glue catalog
+
+## 2. Glue Crawler
+
+## Glue Classifier 
+
+
 ## 1. Authentication
 users | user groups | IAM Role
 ## 2. Authorization 
