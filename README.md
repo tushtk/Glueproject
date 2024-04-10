@@ -39,7 +39,7 @@ policy: awsgeneralrole
 
 
 ## ------------------------------- Executing Glue on collab -----------------
-glue on colab
+![Glue on colab](https://github.com/tushtk/Glueproject/blob/main/glueoncolab.py) 
 
 # Reference 
 https://www.tecracer.com/blog/2021/06/what-i-wish-somebody-had-explained-to-me-before-i-started-to-use-aws-glue.html
