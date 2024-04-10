@@ -36,3 +36,10 @@ IAM
 - role101
 trusted entity:glue service
 policy: awsgeneralrole
+
+
+## ------------------------------- Executing Glue on collab -----------------
+glue on colab
+
+# Reference 
+https://www.tecracer.com/blog/2021/06/what-i-wish-somebody-had-explained-to-me-before-i-started-to-use-aws-glue.html
